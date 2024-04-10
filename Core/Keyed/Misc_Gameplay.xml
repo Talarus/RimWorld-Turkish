@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
@@ -646,6 +646,10 @@
   <AreaDefaultLabel>Alan {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
   <NoAreaAllowed>Kısıtlanmamış</NoAreaAllowed>
+  <!-- EN: ExpandArea -->
+  <ExpandArea>Bölgeyi seç</ExpandArea>
+  <!-- EN: ShrinkArea -->
+  <ShrinkArea>Bölgeyi kaldır</ShrinkArea>
   <!-- EN: New area -->
   <NewArea>Yeni bölge</NewArea>
   <!-- EN: Invert -->
